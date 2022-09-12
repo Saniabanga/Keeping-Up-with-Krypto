@@ -31,16 +31,6 @@ Keeping Up with Krypto WebApp built with React is a crypto currency tracking and
 </ul>
 
 
-### Installation
-
-```
-git clone https://github.com/manavsiddharthgupta/CryptoFolio.git
-
-npm install
-
-npm start
-```
-
 ### `npm start`
 
 Runs the app in the development mode.\
